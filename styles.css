@@ -214,7 +214,7 @@ footer img{
 
 @media screen and (min-width:620px){
 	body{
-		background: red;
+
 	}
 	.welcome-text{
 		grid-column: 1/5;
@@ -256,7 +256,7 @@ footer img{
 @media screen and (min-width:960px){
 	body{
 		font-size: 18px;
-		background:green;
+
 	}
 	.grid{
 		width: 100%;
@@ -322,7 +322,7 @@ footer img{
 @media screen and (min-width:1200px){
 	body{
 		font-size: 20px;
-		background:orange;
+
 	}
 
 	#welcome,#portfolio,#skills,#contact{
